@@ -19,8 +19,8 @@ The application is deployed on a Flask server, a lightweight WSGI web applicatio
 4. **Model Flexibility**: Adaptable for use with various language models.
 
 ## Possible Future Extensions
-- **Vector Database Integration**: To enhance the project's capabilities, integrating a Vector database could be explored. This would provide persistent memory storage, allowing the system to store and retrieve context or other relevant information over time. Such a feature could significantly improve the quality of articles generated in future iterations by providing a more robust data foundation and contextual understanding.
-- **Automated Quality Control**: Develop a system to automatically check the factual accuracy, grammar, and style of generated articles. This will ensure consistently high-quality output and reduce the need for manual reviews.
+- **Dynamic Information Retrieval with RAG**: By incorporating RAG, the project can dynamically access and integrate external information. The RAG system, which combines a language model with an information retrieval system, can fetch the most relevant and up-to-date data from the Vector Database or other external sources.
+- **Automated Quality Control**: Develop a system to automatically check the factual accuracy, grammar, and style of generated articles - potentially with 3rd party data sources like Pitchbook or Crunchbase. This will ensure consistently high-quality output and reduce the need for manual reviews.
 - **Multi-Language Support**: Extend the system to generate articles in multiple languages. This will cater to a broader, international audience and increase the project's reach and applicability.
 
 ## Implementation Details
