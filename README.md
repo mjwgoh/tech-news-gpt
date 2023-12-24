@@ -1,7 +1,7 @@
 # Multi-Shot Article Generation Project
 
 ## Objective
-This project leverages multi-shot prompting to automatically generate articles. Originally developed for a Quest Ventures PortCo, the published version is sanitized for broader use.
+This project leverages multi-shot prompting to automatically generate articles.
 
 ## Deployment
 The application is deployed on a Flask server, a lightweight WSGI web application framework. This setup provides a balance between ease of use and powerful functionality, suitable for both simple and complex applications.
