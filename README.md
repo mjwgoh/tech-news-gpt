@@ -40,4 +40,4 @@ The application is deployed on a Flask server, a lightweight WSGI web applicatio
 Ensure all dependencies are installed and environment variables are set. Run `alpha.ipynb` to initiate the process. Follow the notebook's steps for complete article generation.
 
 ## Conclusion
-This project demonstrates the integration of NLP models and web scraping for automated, relevant, and current article generation. Its design allows for easy adaptation and scalability.
+This project demonstrates the integration of LLM models and web scraping for automated, relevant, and current article generation. Its design allows for easy adaptation and scalability.
