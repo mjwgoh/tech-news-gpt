@@ -11,7 +11,6 @@ The application is deployed on a Flask server, a lightweight WSGI web applicatio
 - **Langchain**: Enhances large language model capabilities.
 - **BeautifulSoup & Requests**: Python libraries for web scraping.
 - **dotenv**: Manages environment variables for secure configuration.
-- Additional models like Claude, Bard, or Llama can be integrated for diverse processing capabilities.
 
 ## How It Works
 1. **Web Scraping**: Scrape the latest tech funding news articles from a specified site, storing in 'Scraped Articles'.
