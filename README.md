@@ -1,7 +1,7 @@
-# Multi-Shot Article Generation Project
+# Using Prompt Chaining to Automatically Generate Articles
 
 ## Objective
-This project leverages multi-shot prompting to automatically generate articles.
+This project scrapes the web and uses GPT-3 + LangChain to automatically parse and generate new articles.
 
 ## Deployment
 The application is deployed on a Flask server, a lightweight WSGI web application framework. This setup provides a balance between ease of use and powerful functionality, suitable for both simple and complex applications.
