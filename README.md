@@ -1,4 +1,4 @@
-# Using Prompt Chaining to Automatically Generate Articles
+# Zero Shot Article Generation
 
 ## Objective
 This project scrapes the web and uses GPT-3 + LangChain to automatically parse and generate new articles.
